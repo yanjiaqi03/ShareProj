@@ -1,4 +1,4 @@
-package com.example.jacky.shareproj;
+package com.example.jacky.shareproj.rxjava;
 
 /**
  * DebugUtils

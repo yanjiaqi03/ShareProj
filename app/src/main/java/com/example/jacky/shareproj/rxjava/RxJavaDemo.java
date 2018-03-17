@@ -1,7 +1,5 @@
 package com.example.jacky.shareproj.rxjava;
 
-import com.example.jacky.shareproj.DebugUtils;
-
 import rx.Observable;
 import rx.Observer;
 import rx.Subscriber;
